@@ -32,4 +32,4 @@ This project implements a vocoder using Faust for signal processing and Arduino 
 
 ## License:
 
-This project is distributed under the terms of the GNU General Public License (GPL) as published by the Free Software Foundation. See the included license file for more details.
+This project is distributed under the terms of the GNU General Public License (GPL) as published by the Free Software Foundation.
